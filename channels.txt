@@ -3,4 +3,4 @@ name= Vevo url= "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/apple
 name= Discovery url= "http://167.114.102.27/live/1BkJioeqcKRg3SDn6mE6TA/1456107220/a490ae75a3ec2acf16c9f592e889eb4c.m3u8" logo= "http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/discovery.jpg"
 name= ESPN url= "http://167.114.102.27/live/R7S6ddtnJbhrWYWq7INIUg/1456107179/7b0ef842a6a1233a8a86a8533063a1a1.m3u8" logo= "https://pmcdeadline2.files.wordpress.com/2013/08/espn_logo__130813225927.jpg" 
 name= Cartoon network url= "http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/4165.ts" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"
-name= Combate HD url= "http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/5617.ts" logo= ""
+name= Combate HD url= "http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/5617.ts" logo= "http://tvshows.ofw-ako.com/wp-content/uploads/2015/11/discovery.jpg"
