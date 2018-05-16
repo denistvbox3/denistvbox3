@@ -1,5 +1,5 @@
 name= crab url= "https://www.vidsplay.com/wp-content/uploads/2017/04/crab.mp4" logo= "https://st2.depositphotos.com/1005893/8035/i/950/depositphotos_80359438-stock-photo-delicious-curry-blue-crab.jpg"
-name= terra de minas url= "http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRADMNS.mp4" logo= "http://server6.redecanais.tv/imgs-videos/Terra%20de%20Minas.jpg"
+name= terra de minas url= "http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRADMNS.mp4|referer" logo= "http://server6.redecanais.tv/imgs-videos/Terra%20de%20Minas.jpg"
 <NAME>Xtro 2</NAME><URL>https://openload.co/f/i6en49nqvV8/TNT_Monstervision_Joe_Bob_Briggs_Presents_Xtro_2.mp4</URL><ICON>https://i.imgur.com/YpHnzXf.jpg</ICON><FANART> </FANART><DESC> </DESC>﻿
 
 
