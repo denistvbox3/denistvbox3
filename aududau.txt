@@ -1,3 +1,2 @@
-name="filme"
-link="http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TMALENOMQRTO.mp4|Referer=http://redecanais.link"
+name=filme url="http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TMALENOMQRTO.mp4|Referer=http://redecanais.link"
 logo="https://tse2.mm.bing.net/th?id=OIF.lmWyn4lut3d28o4A%2foSqZw&pid=15.1&P=0&w=300"
