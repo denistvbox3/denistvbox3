@@ -2,28 +2,1038 @@
 
 
 <channels>
-<channel>
-<name>Live TV</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>portugalkodi.com</info>
-</channel>
 
 <channel>
-<name>Movies</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>portugalkodi.com</info>
-</channel>
+<name> 04-Tom_Snare-My_Homeworld.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 04-Tom_Snare-My_Homeworld.mp3</info>
 
 <channel>
-<name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>portugalkodi.com</info>
-</channel>
-
+<name> 04_Freefall_2_.wma</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 04_Freefall_2_.wma</info>
+<channel>
+<name> 06-timberland_feat_nelly_furtado_and_justin_timberlake-give_it_to_me.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 06-timberland_feat_nelly_furtado_and_justin_timberlake-give_it_to_me.mp3</info>
+<channel>
+<name> 07__Basic_Element_-_To_You__radio_edit_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 07__Basic_Element_-_To_You__radio_edit_.mp3</info>
+<channel>
+<name> 111111John_Marks_-_Insanity.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 111111John_Marks_-_Insanity.mp3</info>
+<channel>
+<name> 11111Sean_Kingston_-_Beautiful_Girls.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 11111Sean_Kingston_-_Beautiful_Girls.mp3</info>
+<channel>
+<name> 11Foggy_-_Come_Into_My_Dream__Radio_Edit_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 11Foggy_-_Come_Into_My_Dream__Radio_Edit_.mp3</info>
+<channel>
+<name> 11Mr_Bronkz_Pres._Bronkz_Brothers_-_Majorka__Original_Mix_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 11Mr_Bronkz_Pres._Bronkz_Brothers_-_Majorka__Original_Mix_.mp3</info>
+<channel>
+<name> 12a.i.d.a._-_far___away.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 12a.i.d.a._-_far___away.mp3</info>
+<channel>
+<name> 1Akon_feat._Stat_Quo_And_Bobby_Creekwater_-_Smack_That__Decco_Remix.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Akon_feat._Stat_Quo_And_Bobby_Creekwater_-_Smack_That__Decco_Remix.mp3</info>
+<channel>
+<name> 1Alchemist_Project_-_Music_Is_My_Extasy__Mike_McPower_Remix_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Alchemist_Project_-_Music_Is_My_Extasy__Mike_McPower_Remix_.mp3</info>
+<channel>
+<name> 1Beyonce_-_Green_Light__Freemasons_Club_Vox_www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Beyonce_-_Green_Light__Freemasons_Club_Vox_www.twojemp3.net.mp3</info>
+<channel>
+<name> 1Lexington_Bridge_-_Kick_Back.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Lexington_Bridge_-_Kick_Back.mp3</info>
+<channel>
+<name> 1Max_Farenthide-Max_Farenthide_vs_DJ_Hubertuse_-_Migration.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Max_Farenthide-Max_Farenthide_vs_DJ_Hubertuse_-_Migration.mp3</info>
+<channel>
+<name> 1Mbrother_-_I_Cant_Wait_No_More.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Mbrother_-_I_Cant_Wait_No_More.mp3</info>
+<channel>
+<name> 1Paula_DeAnda_Feat._Bow_Wow_-_Easy__RMX___Prod._by_Timbaland___2007_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Paula_DeAnda_Feat._Bow_Wow_-_Easy__RMX___Prod._by_Timbaland___2007_.mp3</info>
+<channel>
+<name> 1Shop_boyz-_Party_Like_A_Rockstar.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 1Shop_boyz-_Party_Like_A_Rockstar.mp3</info>
+<channel>
+<name> 2-4 grooves - Writing on the wall (st. elmos_fire).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 2-4 grooves - Writing on the wall (st. elmos_fire).mp3</info>
+<channel>
+<name> 4_Elements_-_I_Want_You_To_Hold_Me__Club_Mix__www.Techniawka.net__.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 4_Elements_-_I_Want_You_To_Hold_Me__Club_Mix__www.Techniawka.net__.mp3</info>
+<channel>
+<name> 4_Strings_-_Take_Me_Away_Into_The_Night__Vocal_Radio_Mix_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> 4_Strings_-_Take_Me_Away_Into_The_Night__Vocal_Radio_Mix_www.sluchaj.net.mp3</info>
+<channel>
+<name> Activ-8 - Everytime i think of you.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Activ-8 - Everytime i think of you.mp3</info>
+<channel>
+<name> Active - Visez.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Active - Visez.mp3</info>
+<channel>
+<name> Addicted_Craze_Feat._The_Circus_-_Beautiful__Groove-T_Remix__www.SLUCHAJ.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Addicted_Craze_Feat._The_Circus_-_Beautiful__Groove-T_Remix__www.SLUCHAJ.net.mp3</info>
+<channel>
+<name> Adrew_Spencer_And_The_Vamprockerz_-_Zombie__Ray_Knox_Remix___www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Adrew_Spencer_And_The_Vamprockerz_-_Zombie__Ray_Knox_Remix___www.twojemp3.net.mp3</info>
+<channel>
+<name> Akcent - Kylie (Clubstar Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Akcent - Kylie (Clubstar Remix).mp3</info>
+<channel>
+<name> Akon_feat._Eminem_-_Smack_That__DJ_Bounce_Remix_Dirty_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Akon_feat._Eminem_-_Smack_That__DJ_Bounce_Remix_Dirty_www.sluchaj.net.mp3</info>
+<channel>
+<name> Alcazar - This is world we live in.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Alcazar - This is world we live in.mp3</info>
+<channel>
+<name> Alex Gaudino feat. Shena - Watch out.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Alex Gaudino feat. Shena - Watch out.mp3</info>
+<channel>
+<name> Alex Megane - Something.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Alex Megane - Something.mp3</info>
+<channel>
+<name> Ali payami vs. Aquagen and warp Brothers - Blade.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ali payami vs. Aquagen and warp Brothers - Blade.mp3</info>
+<channel>
+<name> Andrew B.feat DJ Alex vs.Natalka Karpa.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Andrew B.feat DJ Alex vs.Natalka Karpa.mp3</info>
+<channel>
+<name> Andrew Spencer - To Be With You (Ray Knox Remix.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Andrew Spencer - To Be With You (Ray Knox Remix.mp3</info>
+<channel>
+<name> Andrew_Spencer_And_The_Vamprockers_-_Zombie__2-4_Grooves_Remix__WWW.TWOJEMP3.NET__.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Andrew_Spencer_And_The_Vamprockers_-_Zombie__2-4_Grooves_Remix__WWW.TWOJEMP3.NET__.mp3</info>
+<channel>
+<name> Anybody - Squeezer.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Anybody - Squeezer.mp3</info>
+<channel>
+<name> Aspen - Don't wanna miss a thing.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Aspen - Don't wanna miss a thing.mp3</info>
+<channel>
+<name> Avril_Lavigne_-_Don_t_Tell_Me.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Avril_Lavigne_-_Don_t_Tell_Me.mp3</info>
+<channel>
+<name> Azure - Only when you leave.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Azure - Only when you leave.mp3</info>
+<channel>
+<name> Backside Artists - Freed from desire.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Backside Artists - Freed from desire.mp3</info>
+<channel>
+<name> Baillando feat. Lara McAllen - That's how to love.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Baillando feat. Lara McAllen - That's how to love.mp3</info>
+<channel>
+<name> Baracuda_-_Ladida__Swisstylerz_Remix__www.SLUCHAJ.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Baracuda_-_Ladida__Swisstylerz_Remix__www.SLUCHAJ.net.mp3</info>
+<channel>
+<name> Barth Bazz - What U Know _Original Mix_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Barth Bazz - What U Know _Original Mix_.mp3</info>
+<channel>
+<name> BaseTime - Colours of your dream.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> BaseTime - Colours of your dream.mp3</info>
+<channel>
+<name> Basshunter - Camilla.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Basshunter - Camilla.mp3</info>
+<channel>
+<name> Beatfreakz - Superfreak (Beatfreakz Club Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Beatfreakz - Superfreak (Beatfreakz Club Mix).mp3</info>
+<channel>
+<name> Benny_Benassi_Feat._Angela_-_Can_You_Feel_It__MaxiTrack_Electro_Re-Mix_2007_WWW.TWOJEMP3.NET.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Benny_Benassi_Feat._Angela_-_Can_You_Feel_It__MaxiTrack_Electro_Re-Mix_2007_WWW.TWOJEMP3.NET.mp3</info>
+<channel>
+<name> Bloodhound_Gang_-_The_Bad_Touch_2007__Dj_Cargo_remix__www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Bloodhound_Gang_-_The_Bad_Touch_2007__Dj_Cargo_remix__www.twojemp3.net.mp3</info>
+<channel>
+<name> Brokenbeatz_-_Touch_Me_Baby__Mr_Bronkz_Remix__www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Brokenbeatz_-_Touch_Me_Baby__Mr_Bronkz_Remix__www.sluchaj.net.mp3</info>
+<channel>
+<name> Bum - Kanikuly ( Remix Tribal Dj Robson).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Bum - Kanikuly ( Remix Tribal Dj Robson).mp3</info>
+<channel>
+<name> C-BooL - House Baby (Mr Bronkz Remix) - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> C-BooL - House Baby (Mr Bronkz Remix) - www.bm3music.com.mp3</info>
+<channel>
+<name> Cascada - One More Night (Club Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Cascada - One More Night (Club Mix).mp3</info>
+<channel>
+<name> Cascada - Ready For Love (Club Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Cascada - Ready For Love (Club Mix).mp3</info>
+<channel>
+<name> Cascada - What hurts the most (2).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Cascada - What hurts the most (2).mp3</info>
+<channel>
+<name> Cascada - What hurts the most.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Cascada - What hurts the most.mp3</info>
+<channel>
+<name> Cascada_-_Heaven__Radio_Mix___www.SLUCHAJ.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Cascada_-_Heaven__Radio_Mix___www.SLUCHAJ.net.mp3</info>
+<channel>
+<name> Club Robbers - Take Me Home Tonight (Original Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Club Robbers - Take Me Home Tonight (Original Mix).mp3</info>
+<channel>
+<name> Cuba Club - Im Only Shooting Love (B1 Tim Verba Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Cuba Club - Im Only Shooting Love (B1 Tim Verba Remix).mp3</info>
+<channel>
+<name> D-Bomb - Mysle (D-Tune Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> D-Bomb - Mysle (D-Tune Remix).mp3</info>
+<channel>
+<name> D-Bomb - Shake your boom boom.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> D-Bomb - Shake your boom boom.mp3</info>
+<channel>
+<name> DJ MoroMan & Mass - Satisfaction 2006 Re-Edition (Radio Mix) - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> DJ MoroMan & Mass - Satisfaction 2006 Re-Edition (Radio Mix) - www.bm3music.com.mp3</info>
+<channel>
+<name> DJ Remo - All time my music.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> DJ Remo - All time my music.mp3</info>
+<channel>
+<name> DJ Remo - You Can Dance (Radio Edit).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> DJ Remo - You Can Dance (Radio Edit).mp3</info>
+<channel>
+<name> DJ_Walus-Jordan___Baker_-_Explode__DJ_Walus_2007_Remix_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> DJ_Walus-Jordan___Baker_-_Explode__DJ_Walus_2007_Remix_www.sluchaj.net.mp3</info>
+<channel>
+<name> Da Buzz - Listen to me.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Da Buzz - Listen to me.mp3</info>
+<channel>
+<name> Dan Winter & Rob Mayth - Dare Me (Jeckyll & Hyde Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dan Winter & Rob Mayth - Dare Me (Jeckyll & Hyde Remix).mp3</info>
+<channel>
+<name> Dan_Winter-_Dare_Me__Discotronic_Radio_Edit__www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dan_Winter-_Dare_Me__Discotronic_Radio_Edit__www.twojemp3.net.mp3</info>
+<channel>
+<name> Danzel_-_You_spin_me_round__www.sluchaj.net__.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Danzel_-_You_spin_me_round__www.sluchaj.net__.mp3</info>
+<channel>
+<name> David Tavare Feat. 2Eivissa - Hot Summer Night www.club-nation.eu Up by Kanik.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> David Tavare Feat. 2Eivissa - Hot Summer Night www.club-nation.eu Up by Kanik.mp3</info>
+<channel>
+<name> David Tavare feat. 2 Eivissa - Summer Night (Oh La La La).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> David Tavare feat. 2 Eivissa - Summer Night (Oh La La La).mp3</info>
+<channel>
+<name> David_Guetta_Vs_Chris_Decay_-_Love_Is_Gone__Ibiza_2007_Remix_l_WWW.SLUCHAJ.NET.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> David_Guetta_Vs_Chris_Decay_-_Love_Is_Gone__Ibiza_2007_Remix_l_WWW.SLUCHAJ.NET.mp3</info>
+<channel>
+<name> De-Grees vs the Real Booty Babes - Apologize .mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> De-Grees vs the Real Booty Babes - Apologize .mp3</info>
+<channel>
+<name> DeeJayEx - Summer (Benassi Bross Rmx) - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> DeeJayEx - Summer (Benassi Bross Rmx) - www.bm3music.com.mp3</info>
+<channel>
+<name> Disco_Freaks_-_Take_Me_To_The_Sun__Freemasons_Remix____www.twojemp3.net___.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Disco_Freaks_-_Take_Me_To_The_Sun__Freemasons_Remix____www.twojemp3.net___.mp3</info>
+<channel>
+<name> Dj ADK feat Linda - You came.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj ADK feat Linda - You came.mp3</info>
+<channel>
+<name> Dj Antoine - Arabian Adventure 3.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj Antoine - Arabian Adventure 3.mp3</info>
+<channel>
+<name> Dj Antoine - This time (klaas remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj Antoine - This time (klaas remix).mp3</info>
+<channel>
+<name> Dj EleKtroN - Don't Stop Pussy - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj EleKtroN - Don't Stop Pussy - www.bm3music.com.mp3</info>
+<channel>
+<name> Dj Remo - My music Song.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj Remo - My music Song.mp3</info>
+<channel>
+<name> Dj Ross - Smile.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj Ross - Smile.mp3</info>
+<channel>
+<name> Dj_Neros_-_Renegade_Master_WWW.SLUCHAJ.NET.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Dj_Neros_-_Renegade_Master_WWW.SLUCHAJ.NET.mp3</info>
+<channel>
+<name> E-Bonit_-_Eqador_2007__Alkohol_Club_Mix_By_Costa_WWW.TWOJEMP3.NET.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> E-Bonit_-_Eqador_2007__Alkohol_Club_Mix_By_Costa_WWW.TWOJEMP3.NET.mp3</info>
+<channel>
+<name> E-Type - Eurofighter.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> E-Type - Eurofighter.mp3</info>
+<channel>
+<name> E.B.J feat Ange - Loving you.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> E.B.J feat Ange - Loving you.mp3</info>
+<channel>
+<name> East_Clubbers_-_Sexplosion_www.SLUCHAJ.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> East_Clubbers_-_Sexplosion_www.SLUCHAJ.net.mp3</info>
+<channel>
+<name> Edyta Gorniak - List (v1r00z Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Edyta Gorniak - List (v1r00z Remix).mp3</info>
+<channel>
+<name> Fall Out Boy - This aint a scene.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Fall Out Boy - This aint a scene.mp3</info>
+<channel>
+<name> Fanclub - Henrik Larsson.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Fanclub - Henrik Larsson.mp3</info>
+<channel>
+<name> Ferry_Corsten_-_Holding_On_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ferry_Corsten_-_Holding_On_www.sluchaj.net.mp3</info>
+<channel>
+<name> Fredde Le Grand - Put Your Hands Up for detroit.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Fredde Le Grand - Put Your Hands Up for detroit.mp3</info>
+<channel>
+<name> Freddy fader vs rico nl - The riddle (jump edit).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Freddy fader vs rico nl - The riddle (jump edit).mp3</info>
+<channel>
+<name> G and G feat. Gary Wright - My my my (klaas remix edit).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> G and G feat. Gary Wright - My my my (klaas remix edit).mp3</info>
+<channel>
+<name> Glamour DJ's - Whiskey In The Jar.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Glamour DJ's - Whiskey In The Jar.mp3</info>
+<channel>
+<name> Global Deejays - American Pie.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Global Deejays - American Pie.mp3</info>
+<channel>
+<name> Haddaway - Life (DJ Yan Relaunch Mix 2006) - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Haddaway - Life (DJ Yan Relaunch Mix 2006) - www.bm3music.com.mp3</info>
+<channel>
+<name> Helen Paparizou - Mambo (Alex K Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Helen Paparizou - Mambo (Alex K Remix).mp3</info>
+<channel>
+<name> Holyy Dolly - Lollipop.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Holyy Dolly - Lollipop.mp3</info>
+<channel>
+<name> Ice Mc - Think About The Way 2006 (DJ Cargo Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ice Mc - Think About The Way 2006 (DJ Cargo Remix).mp3</info>
+<channel>
+<name> Ida Corr vs. Fedde le Grand - Let me think about it.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ida Corr vs. Fedde le Grand - Let me think about it.mp3</info>
+<channel>
+<name> Infernal - Downtown Boys (Copenhagen Clubbers Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Infernal - Downtown Boys (Copenhagen Clubbers Remix).mp3</info>
+<channel>
+<name> Infernal - I Wont Be Crying (Beatfreakz Club Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Infernal - I Wont Be Crying (Beatfreakz Club Mix).mp3</info>
+<channel>
+<name> Infernal - Self Control 2005 (Club Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Infernal - Self Control 2005 (Club Mix).mp3</info>
+<channel>
+<name> Infernal - Ten Miles (Brasco Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Infernal - Ten Miles (Brasco Mix).mp3</info>
+<channel>
+<name> Ivory - Ghostbusters (steve n king radio cut).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ivory - Ghostbusters (steve n king radio cut).mp3</info>
+<channel>
+<name> Jeany Kiss - Sweet Dreams.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Jeany Kiss - Sweet Dreams.mp3</info>
+<channel>
+<name> Jeckyll & Hyde - Free Fall (Hide's Remote Bootleg).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Jeckyll & Hyde - Free Fall (Hide's Remote Bootleg).mp3</info>
+<channel>
+<name> Jeckyll & Hyde - Free Fall.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Jeckyll & Hyde - Free Fall.mp3</info>
+<channel>
+<name> Justin_Timberlake_-_Lovestoned_I_Think_She_Knows__Tiesto_Remix_www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Justin_Timberlake_-_Lovestoned_I_Think_She_Knows__Tiesto_Remix_www.twojemp3.net.mp3</info>
+<channel>
+<name> Kate Ryan - Voyage voyage.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Kate Ryan - Voyage voyage.mp3</info>
+<channel>
+<name> Keyjoy - I won't stop.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Keyjoy - I won't stop.mp3</info>
+<channel>
+<name> Kiana - King of The Danefloor.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Kiana - King of The Danefloor.mp3</info>
+<channel>
+<name> Kindvater Feat. Nadja - Everytime You Need Me (Original Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Kindvater Feat. Nadja - Everytime You Need Me (Original Mix).mp3</info>
+<channel>
+<name> Kosmokwaki - kosmo sms (alchemist_project_radio_remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Kosmokwaki - kosmo sms (alchemist_project_radio_remix).mp3</info>
+<channel>
+<name> Kosmokwaki - kosmo sms (east_clubbers_radio_remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Kosmokwaki - kosmo sms (east_clubbers_radio_remix).mp3</info>
+<channel>
+<name> Liz Meyer - All i want.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Liz Meyer - All i want.mp3</info>
+<channel>
+<name> Lobo Ismail - One more night.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Lobo Ismail - One more night.mp3</info>
+<channel>
+<name> Long & Junior - JAZDA.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Long & Junior - JAZDA.mp3</info>
+<channel>
+<name> Lucky Twice - Lucky.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Lucky Twice - Lucky.mp3</info>
+<channel>
+<name> Luke Francis - A girl like you (phil d.radio).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Luke Francis - A girl like you (phil d.radio).mp3</info>
+<channel>
+<name> Magnus_Carlsson_-_Live_Forever__Soundfactory_Radio_Edit_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Magnus_Carlsson_-_Live_Forever__Soundfactory_Radio_Edit_.mp3</info>
+<channel>
+<name> Mallancia - Feel (Hadzi remix)2008.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Mallancia - Feel (Hadzi remix)2008.mp3</info>
+<channel>
+<name> Mallancia - Rock You (Radio Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Mallancia - Rock You (Radio Mix).mp3</info>
+<channel>
+<name> Manian Ft Aila - Heaven.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Manian Ft Aila - Heaven.mp3</info>
+<channel>
+<name> Mans Zelmerlow - Cara Mia.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Mans Zelmerlow - Cara Mia.mp3</info>
+<channel>
+<name> Maroma - La luna.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Maroma - La luna.mp3</info>
+<channel>
+<name> Marquess - Vayamos Companeros.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Marquess - Vayamos Companeros.mp3</info>
+<channel>
+<name> Master_Blaster_-_Can_Delight_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Master_Blaster_-_Can_Delight_www.sluchaj.net.mp3</info>
+<channel>
+<name> Mega dance - powiec czemu trudno tak(Radbeat remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Mega dance - powiec czemu trudno tak(Radbeat remix).mp3</info>
+<channel>
+<name> Melanie C - Carolyna.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Melanie C - Carolyna.mp3</info>
+<channel>
+<name> Mika_-_Relax__A2_Remix_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Mika_-_Relax__A2_Remix_www.sluchaj.net.mp3</info>
+<channel>
+<name> Miksio-Miksio - Change_gone_come by GreensongoQ.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Miksio-Miksio - Change_gone_come by GreensongoQ.mp3</info>
+<channel>
+<name> Milk Inc. - Sunrise (jeckyll & hyde extended mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Milk Inc. - Sunrise (jeckyll & hyde extended mix).mp3</info>
+<channel>
+<name> Millenium 54 - I dont want to miss a thing (rocco and bass-t edit).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Millenium 54 - I dont want to miss a thing (rocco and bass-t edit).mp3</info>
+<channel>
+<name> Mr Bronkz - Be Happy (Club Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Mr Bronkz - Be Happy (Club Mix).mp3</info>
+<channel>
+<name> Nelly Furtado Promiscuous Girl.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Nelly Furtado Promiscuous Girl.mp3</info>
+<channel>
+<name> Now Dance 2007 - Chris lake feat vs laura - Change.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Now Dance 2007 - Chris lake feat vs laura - Change.mp3</info>
+<channel>
+<name> O-Zone - Dragostea din tei 2008 (rmx.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> O-Zone - Dragostea din tei 2008 (rmx.mp3</info>
+<channel>
+<name> Paffendorf vs. the Real Booty Babes - On and on.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Paffendorf vs. the Real Booty Babes - On and on.mp3</info>
+<channel>
+<name> Paffendorf_Feat._Leyla_De_Vaar_-_Under_My_Skin._www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Paffendorf_Feat._Leyla_De_Vaar_-_Under_My_Skin._www.twojemp3.net.mp3</info>
+<channel>
+<name> Papa Dance - Bedziemy Tanczyc Flashtune vs. Night (Power_Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Papa Dance - Bedziemy Tanczyc Flashtune vs. Night (Power_Remix).mp3</info>
+<channel>
+<name> Phuntune - Whenever Wherever (Clubtune Mix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Phuntune - Whenever Wherever (Clubtune Mix).mp3</info>
+<channel>
+<name> Plastico - Plastikowa Biedronka.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Plastico - Plastikowa Biedronka.mp3</info>
+<channel>
+<name> Ramon Zerano - Kill 4 love 2008 (may kay remix edit).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ramon Zerano - Kill 4 love 2008 (may kay remix edit).mp3</info>
+<channel>
+<name> Recover Project _ Sweet dreams secret layor _club remix_.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Recover Project _ Sweet dreams secret layor _club remix_.mp3</info>
+<channel>
+<name> Rev-Players-Jordan & Baker - Explode (Rev-Players RMX) - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Rev-Players-Jordan & Baker - Explode (Rev-Players RMX) - www.bm3music.com.mp3</info>
+<channel>
+<name> Rocco_And_Bass-T_-_Alright_www.SLUCHAJ.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Rocco_And_Bass-T_-_Alright_www.SLUCHAJ.net.mp3</info>
+<channel>
+<name> Roxane - Sexy (Electro 12 Inch Extended Mix)www.club-nation.eu.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Roxane - Sexy (Electro 12 Inch Extended Mix)www.club-nation.eu.mp3</info>
+<channel>
+<name> Royal Gigolos - Girls just wanna dance (2-4 grooves vocal edit).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Royal Gigolos - Girls just wanna dance (2-4 grooves vocal edit).mp3</info>
+<channel>
+<name> Royal Gigolos - Girls just wanna dance.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Royal Gigolos - Girls just wanna dance.mp3</info>
+<channel>
+<name> Royal_Gigolos_-_Tell_It_To_My_Heart__Extended_Mix_www.sluchaj.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Royal_Gigolos_-_Tell_It_To_My_Heart__Extended_Mix_www.sluchaj.net.mp3</info>
+<channel>
+<name> SJB feat. Jane Wiedlin - Rush Hour.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> SJB feat. Jane Wiedlin - Rush Hour.mp3</info>
+<channel>
+<name> Salty Fish - In the air tonight (rocco and bass-t remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Salty Fish - In the air tonight (rocco and bass-t remix).mp3</info>
+<channel>
+<name> Sean Kingston - Beautiful girls.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Sean Kingston - Beautiful girls.mp3</info>
+<channel>
+<name> Sekret - Jak daleko.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Sekret - Jak daleko.mp3</info>
+<channel>
+<name> Shaun_Baker_-_Power__B1_Dan_Winter_Remix__WWW.TWOJEMP3.NET__.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Shaun_Baker_-_Power__B1_Dan_Winter_Remix__WWW.TWOJEMP3.NET__.mp3</info>
+<channel>
+<name> Sonic_Alive_-_Because_The_Night_2007__Original_Mix__WWW.SLUCHAJ.NET__.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Sonic_Alive_-_Because_The_Night_2007__Original_Mix__WWW.SLUCHAJ.NET__.mp3</info>
+<channel>
+<name> Starplash - Cold as ice.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Starplash - Cold as ice.mp3</info>
+<channel>
+<name> Starting_Rock_Feat._Diva_Avari_-_Movin_On__Club_Extended_Mix_www.twojemp3.net.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Starting_Rock_Feat._Diva_Avari_-_Movin_On__Club_Extended_Mix_www.twojemp3.net.mp3</info>
+<channel>
+<name> The Real Booty Babes - Played-a-live.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> The Real Booty Babes - Played-a-live.mp3</info>
+<channel>
+<name> Topmodelz - Have you ever been mellow.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Topmodelz - Have you ever been mellow.mp3</info>
+<channel>
+<name> Topmodelz - When You're Looking Like That (Rob Mayth Remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Topmodelz - When You're Looking Like That (Rob Mayth Remix).mp3</info>
+<channel>
+<name> Topmodelz - when youre looking like that 2-4 (grooves remix).mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Topmodelz - when youre looking like that 2-4 (grooves remix).mp3</info>
+<channel>
+<name> Twins - LATO.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Twins - LATO.mp3</info>
+<channel>
+<name> Ultra Flirt - Dancing with tears in my eyes.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Ultra Flirt - Dancing with tears in my eyes.mp3</info>
+<channel>
+<name> United  Nation - Rythm is a Dancer 2006 (DjAquaz extension remix) - www.bm3music.com.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> United  Nation - Rythm is a Dancer 2006 (DjAquaz extension remix) - www.bm3music.com.mp3</info>
+<channel>
+<name> Velvet - In and out of love.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Velvet - In and out of love.mp3</info>
+<channel>
+<name> Verona - La musica.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Verona - La musica.mp3</info>
+<channel>
+<name> Voodoo and Serano - transatlantic.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Voodoo and Serano - transatlantic.mp3</info>
+<channel>
+<name> Wyclef_Jean_Ft._Akon_-_Sweetest_Girl__Robboz_Remix__WWW.TWOJEMP3.NET.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Wyclef_Jean_Ft._Akon_-_Sweetest_Girl__Robboz_Remix__WWW.TWOJEMP3.NET.mp3</info>
+<channel>
+<name> Zznelly Furtado - Maneater.mp3</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> Zznelly Furtado - Maneater.mp3</info>
+<channel>
+<name> _folderListImage.gif</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> _folderListImage.gif</info>
+<channel>
+<name> _folderListInfo.txt</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> _folderListInfo.txt</info>
+<channel>
+<name> club.html</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> club.html</info>
+<channel>
+<name> club.swf</name>
+<thumbnail>https://i.imgur.com/VJ2npYY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/denistvbox3/denistvbox3/master/home.txt></externallink>
+<fanart>https://i.imgur.com/dpbteTb.jpg</fanart>
+<info> club.swf</info>
 </channels>
