@@ -2,5 +2,5 @@ name= crab url= "https://www.vidsplay.com/wp-content/uploads/2017/04/crab.mp4" l
 name= terra de minas url= "http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRADMNS.mp4|Referer=http://redecanais.link" logo= "http://server6.redecanais.tv/imgs-videos/Terra%20de%20Minas.jpg"
 name= tres anuncios para um crime url= "http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link" logo= "https://tse4.mm.bing.net/th?id=OIP.Rs9gzL0G_JbzuqhJjK4hNAHaLH&pid=15.1&P=0&w=300"
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link
-name= COMBATE REDECANAIS url= "http://stream01.enviandotorpedos.com/hls/redecanais-combate.m3u8|Referer=http://redecanais.link/player3/servercanais.php?canal=redecanais-combate&img=combate" logo= "https://st2.depositphotos.com/1005893/8035/i/950/depositphotos_80359438-stock-photo-delicious-curry-blue-crab.jpg"
+name= COMBATE REDECANAIS url= "http://stream01.enviandotorpedos.com/hls/redecanais-combate.m3u8|Referer=http://redecanais.link/player3/servercanais.php?canal=redecanais-combate&img=combate" logo= "https://i2.wp.com/entretenimento.oportaln10.com.br/wp-content/uploads/2017/02/ufc-combate.jpg"
 
