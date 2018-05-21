@@ -5,3 +5,5 @@ name= ESPN url= "http://167.114.102.27/live/R7S6ddtnJbhrWYWq7INIUg/1456107179/7b
 name= Cartoon network url= "http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/4165.ts" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png"
 name= Combate HD url= "http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/5617.ts" logo= "https://i2.wp.com/entretenimento.oportaln10.com.br/wp-content/uploads/2017/02/ufc-combate.jpg"
 name= COMBATE REDECANAIS url= "http://stream01.enviandotorpedos.com/hls/redecanais-combate.m3u8|Referer=http://redecanais.link/player3/servercanais.php?canal=redecanais-combate&img=combate" logo= "https://i2.wp.com/entretenimento.oportaln10.com.br/wp-content/uploads/2017/02/ufc-combate.jpg"
+name= TOONCAST url="http://stream01.enviandotorpedos.com/hls/redecanais-tooncast.m3u8|Referer=http://redecanais.link/player3/servercanais.php?"
+logo= "https://i2.wp.com/entretenimento.oportaln10.com.br/wp-content/uploads/2017/02/ufc-combate.jpg"
