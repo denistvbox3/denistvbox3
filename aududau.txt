@@ -1,6 +1,34 @@
 name= crab url= "https://www.vidsplay.com/wp-content/uploads/2017/04/crab.mp4" logo= "https://st2.depositphotos.com/1005893/8035/i/950/depositphotos_80359438-stock-photo-delicious-curry-blue-crab.jpg"
 name= terra de minas url= "http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRADMNS.mp4|Referer=http://redecanais.link" logo= "http://server6.redecanais.tv/imgs-videos/Terra%20de%20Minas.jpg"
 name= tres anuncios para um crime url= "http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link" logo= "https://tse4.mm.bing.net/th?id=OIP.Rs9gzL0G_JbzuqhJjK4hNAHaLH&pid=15.1&P=0&w=300"
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link
-<NAME>Xtro 2</NAME><URL>https://openload.co/f/i6en49nqvV8/TNT_Monstervision_Joe_Bob_Briggs_Presents_Xtro_2.mp4</URL><ICON>https://i.imgur.com/YpHnzXf.jpg</ICON><FANART> </FANART><DESC> </DESC>﻿
+name= Fahrenheit 451 LEG url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/FAHRENHEIT451LEG.mp4?LHMTv" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Pari LEG url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/PARILEG.mp4?LHMTv" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Caos na Prisao url= "http://offload9238.filmesonlinex.co/filmes/s1/03/508.mp4?LHMTv" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Terminal LEG
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/TERMINALLEG.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Dark Crimes LEG
+ url= "http://offload9238.filmesonlinex.co/filmes/s1/03/504.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Lego DC Super Hero Girls: Escola de Super Vilas
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/LDCSHEDSVDUB.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Psiconaltas: As criancas esquecidas
+ url= "http://offload9238.filmesonlinex.co/filmes/s1/03/502.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= A Abelhinha Maya: O Filme
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/AABELHINHAMAYAOFILMEDUBHDTS.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= DeadPool 2 LEG
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/DEADPOOL2TSLEG.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Cargo
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/CARGODUB.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name=  Mae e Pai
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/MAEEPAIDUB.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
+name= Trem para Paris LEG
+ url= "http://cdn96.ntcdn.us/httpdelivery/sex/antigos/nc/L/TREMPARAPARISLEG.mp4?LHMTv
+" logo= "http://www.lhmtv.tk/channellogo/filmes.png"
 
